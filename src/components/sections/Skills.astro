@@ -21,9 +21,11 @@ import Section from '@/components/Section.astro'
 
 <style>
     .skills {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: repeat(
+            auto-fit,
+            minmax(165px, 1fr)
+        );
         gap: 10px;
         padding: 0;
         list-style: none;
@@ -40,7 +42,6 @@ import Section from '@/components/Section.astro'
         font-size: 0.8rem;
         font-weight: 500;
         padding: 4px 8px;
-        width: 120px;
     }
 
     .skill-name {
@@ -51,7 +52,7 @@ import Section from '@/components/Section.astro'
     .keywords {
         list-style: none;
         padding: 0;
-        margin-top: 4px;
+        margin-top: 6px;
         display: flex;
         flex-direction: column;
         gap: 4px;
