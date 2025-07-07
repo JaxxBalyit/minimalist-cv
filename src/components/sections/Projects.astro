@@ -23,6 +23,13 @@ import Section from '@/components/Section.astro'
                                     }
                                 </h3>
                                 <p>{description}</p>
+                                {url && (
+                                    <p>
+                                        <a href={url} title={`Ver el proyecto ${name}`} target="_blank" rel="noopener noreferrer">
+                                            {url}
+                                        </a>
+                                    </p>
+                                )}
                             </header>
                             <footer>
                                     {highlights.map(highlight => (
