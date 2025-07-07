@@ -1,7 +1,62 @@
 ---
+import { education } from '@cv'
+
 import Section from '@/components/Section.astro'
 ---
 
 <Section title="Educación">
-
+  <ul>
+      {education.map(({ institution, area, studyType, startDate, endDate }) => {
+          const options: Intl.DateTimeFormatOptions = {year: "2-digit", month: "2-digit", day: "2-digit"}
+          const time1 = new Date(startDate).toLocaleString('es-MX', options)
+          const time2 = endDate ? new Date(endDate).toLocaleString('es-MX', options) : "Actual"
+          const time = `${time1} - ${time2}`
+          return (
+              <li>
+                  <article>
+                      <header>
+                          <div>
+                              <h3>{institution}</h3>
+                              <p>{area}</p>
+                          </div>
+                          <time>{time}</time>
+                      </header>
+                      <footer>
+                          <p>{studyType}</p>
+                      </footer>
+                  </article>
+              </li>
+          )
+      })}
+  </ul>
 </Section>
+
+<style>
+  ul {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+  }
+
+  article h3 {
+      font-weight: 500;
+      color: #111;
+  }
+
+  article h4 {
+      color: #222;
+      font-weight: 400;
+  }
+
+  header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 4px;
+  }
+
+  time {
+      color: #555;
+      font-size: .85rem;
+  }
+</style>
