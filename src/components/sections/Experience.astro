@@ -6,10 +6,11 @@ import Section from '@/components/Section.astro'
 
 <Section title="Experiencia laboral">
     <ul>
-        {work.map(({ name, position, startDate, endDate, summary }) => {
-            const startYear = new Date(startDate).getFullYear()
-            const endYear = endDate != null ? new Date(endDate).getFullYear() : 'Presente'
-            const years = `${startYear} - ${endYear}`
+        {work.map(({ name, position, startDate, endDate, summary, highlights }) => {
+            const options: Intl.DateTimeFormatOptions = {year: "2-digit", month: "2-digit", day: "2-digit"}
+            const time1 = new Date(startDate).toLocaleString('es-MX', options)
+            const time2 = endDate ? new Date(endDate).toLocaleString('es-MX', options) : "Actual"
+            const time = `${time1} - ${time2}`
             return (
                 <li>
                     <article>
@@ -18,10 +19,15 @@ import Section from '@/components/Section.astro'
                                 <h3>{name}</h3>
                                 <p>{position}</p>
                             </div>
-                            <time>{years}</time>
+                            <time>{time}</time>
                         </header>
                         <footer>
                             <p>{summary}</p>
+                            <ul class="highlights">
+                                {highlights.map(highlight => (
+                                    <li>{highlight}</li>
+                                ))}
+                            </ul>
                         </footer>
                     </article>
                 </li>
@@ -57,5 +63,13 @@ import Section from '@/components/Section.astro'
     time {
         color: #555;
         font-size: .85rem;
+    }
+    
+    .highlights {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        font-size: 0.75rem;
+        color: #222;
     }
 </style>
