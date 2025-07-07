@@ -7,7 +7,10 @@ import Section from '@/components/Section.astro'
 <Section title="Proyectos">
     <ul>
         {
-            projects.map(({ url, description, highlights, name, isActive}) => {
+            projects.map(({ url, description, highlights, name, isActive, startDate, endDate }) => {
+                const time1 = new Date(startDate).getFullYear()
+                const time2 = endDate ? new Date(endDate).getFullYear() : "Actual"
+                const time = `${time1} - ${time2}`
                 return (
                     <li>
                         <article>
@@ -18,11 +21,11 @@ import Section from '@/components/Section.astro'
                                     </a>
                                     {
                                         isActive && (
-                                            <span>&bull;</span>
+                                            <span class="active">&bull;</span>
                                         )
                                     }
                                 </h3>
-                                <p>{description}</p>
+                                <p>{description} <br /> <time>{time}</time></p>
                                 {url && (
                                     <p class="url">
                                         <a href={url} title={`Ver el proyecto ${name}`} target="_blank" rel="noopener noreferrer">
@@ -32,9 +35,9 @@ import Section from '@/components/Section.astro'
                                 )}
                             </header>
                             <footer>
-                                    {highlights.map(highlight => (
-                                        <span>{highlight}</span>
-                                    ))}
+                                {highlights.map(highlight => (
+                                    <span>{highlight}</span>
+                                ))}
                             </footer>
                         </article>
                     </li>
@@ -88,8 +91,9 @@ import Section from '@/components/Section.astro'
         overflow-wrap: break-word;
     }
 
-    article h3 span {
+    .active {
         color: #6cbb3c;
+        font-size: 1.5rem;
     }
 
     footer {
