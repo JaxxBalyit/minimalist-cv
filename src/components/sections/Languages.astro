@@ -5,5 +5,51 @@ import Section from '@/components/Section.astro'
 ---
 
 <Section title="Idiomas">
-    <p>{languages}</p>
+    <ul class="languages">
+        {languages.map(({ language, fluency }) => (
+            <li>
+                <span class="language-name">{language}</span>
+                <div class="progress-bar">
+                    <div class="progress-fill" style={`width: ${fluency}%`}></div>
+                </div>
+            </li>
+        ))}
+    </ul>
 </Section>
+
+<style>
+    .languages {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+
+    li {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+    }
+
+    .language-name {
+        width: 100px;
+        flex-shrink: 0;
+    }
+
+    .progress-bar {
+        width: 100%;
+        height: 10px;
+        background-color: #ddd;
+        border-radius: 5px;
+        flex-grow: 1;
+    }
+
+    .progress-fill {
+        height: 100%;
+        background-color: #bbb;
+        border-radius: 5px;
+    }
+</style>
