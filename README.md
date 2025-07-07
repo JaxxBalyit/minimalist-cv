@@ -1,52 +1,71 @@
-# Astro Starter Kit: Basics
+# 🚀 Mi Portfalio en Astro 
 
-```sh
-pnpm create astro@latest -- --template basics
+Este es mi portafolio personal / CV construido con [Astro](https://astro.build/), en donde muestro mis habilidades, experiencia y proyectos.
+
+## 📦 Tecnologías que utilicé
+- 🌌 Astro
+- 🎨 CSS
+- 🧠 TypeScript
+- 📄 Formato de Resumen JSON
+- ⚙️ Componentes integrados y estructura modular
+
+## 🖼️ Características
+- Renderizado dinámico de datos del CV desde `cv.json`
+- Componentes modulares (e.g. `<Hero />`, `<Section />`)
+- Diseño responsivo
+- Layout limpio y accesible
+- Secciones estilizadas de habilidades y experiencia
+
+## 📁 Estructura de carpetas
+```bash
+├── public/ # Assets estáticos
+├── src/
+│ ├── components/ # Componentes reutilizables
+│ │   └── sections/ # Secciones
+│ ├── icons/ # Iconos utilizados
+│ ├── layouts/ # Plantillas para páginas
+│ ├── pages/ # Páginas de Astro
+│ ├── types/ # Tipos de datos
+│ └── cv.json # Datos del CV
+├── .gitignore # Archivos ignorados por Git
+├── astro.config.mjs # Configuración de Astro
+├── package.json # Paquetes de Node.js
+├── pnpm-lock.yaml # Lock de paquetes de Node.js
+├── README.md # Documentación del proyecto
+└── tsconfig.json # Configuración de TypeScript
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🛠️ Configuración del proyecto
+```bash
+# Instala las dependencias
+npm install
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+# Inicia el servidor de desarrollo
+npm run dev
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
+# Construye el proyecto para producción
+npm run build
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 📤 Deployment
+Puedes desplegar este proyecto en:
 
-## 🧞 Commands
+- Netlify
+- Vercel
+- GitHub Pages
 
-All commands are run from the root of the project, from a terminal:
+## ✨ Créditos
+Hecho con ❤️ usando Astro.\
+Iconos de [Tabler Icons](https://tabler.io/icons) (o cualquiera que uses).\
+Basado en [JSON Resume](https://jsonresume.org/).\
+Con inspiración del video de [@midudev](https://www.github.com/midudev) en [YouTube](https://www.youtube.com/watch?v=Zwh92LTB-Bk).
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+## 📬 Contacto
+Siéntete libre de contactarme si quieres colaborar o solo decir hola!
 
-## 👀 Want to learn more?
+- 📧 chavez.emmanuel020310@gmail.com
+- 🌐 https://jaxxbalyit.github.io/Resume/
+- 🐙 [GitHub](https://github.com/JaxxBalyit)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+---
