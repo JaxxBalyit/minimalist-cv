@@ -1,0 +1,59 @@
+---
+import { conferences } from '@cv'
+
+import Section from '../Section.astro'
+---
+
+<Section title="Conferencias">
+    <ul>
+        {conferences.map(({ name, date, issuer }) => {
+          const options: Intl.DateTimeFormatOptions = {day: "2-digit", month: "short", year: "numeric"}
+            const time = new Date(date).toLocaleString('es-MX', options)
+            return (
+            <li>
+              <article>
+                  <header>
+                      <div>
+                          <h3>{name}</h3>
+                      </div>
+                      <time>{time}</time>
+                  </header>
+                  <footer>
+                      <p>{issuer}</p>
+                  </footer>
+              </article>
+          </li>
+            )}
+        )}
+    </ul>
+</Section>
+
+<style>
+  ul {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+  }
+
+  article h3 {
+      font-weight: 600;
+      color: #111;
+  }
+
+  article h4 {
+      color: #222;
+      font-weight: 500;
+  }
+
+  header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 4px;
+  }
+
+  time {
+      color: #555;
+      font-size: .85rem;
+  }
+</style>
