@@ -111,6 +111,31 @@
       "issuer": "MITx - 6.00.1x",
       "referenceCode": "ca94a6c92d8846cdb0798cf36863cb7"
     }],
+    "conferences": [{
+      "name": "5° Congreso Iberoamericano de Magnetobiología",
+      "date": "2024-07-24T00:00:00",
+      "issuer": "Universidad de Guanajuato"
+    },{
+      "name": "Encuentro de Ciencia y Tecnología",
+      "date": "2024-11-21T00:00:00",
+      "issuer": "Instituto Politécnico Nacional"
+    },{
+      "name": "5° Congreso de Ingeniería y Física Aplicada a la Biomedicina",
+      "date": "2025-05-05T00:00:00",
+      "issuer": "Universidad de Guanajuato"
+    },{
+      "name": "XXII encuentro Participación de la Mujer en la Ciencia",
+      "date": "2025-05-22T00:00:00",
+      "issuer": "Centro de Investigaciones en Óptica A.C."
+    },{
+      "name": "International Conference on Electrical Bioimpedance and Electrical Impedance Tomography",
+      "date": "2025-06-26T00:00:00",
+      "issuer": "ICEBI - EIT - CNIBi 2025"
+    },{
+      "name": "Foro de Investigación Científica - 20° Aniversario de la Unidad de Investigación de Epidemiología Clínica",
+      "date": "2025-07-10T00:00:00",
+      "issuer": "Instituto Mexicano de Seguridad Social"
+    }],
     "publications": [{
       "name": "Publication",
       "publisher": "Company",
@@ -224,7 +249,39 @@
       ]
     }
   ],
-    "languages": [{
+  "softSkills": [{
+    "name": "Manejo del Tiempo",
+    "keywords": [
+      "Organización",
+      "Responsabilidad"
+    ]
+  },{
+    "name": "Trabajo en Equipo",
+    "keywords": [
+      "Liderazgo",
+      "Productividad"
+    ]
+  },{
+    "name": "Forjar Nuevas Relaciones",
+    "keywords": [
+      "Comunicación",
+      "Empatía",
+      "Comprensión"
+    ]
+  },{
+    "name": "Adaptabilidad",
+    "keywords": [
+      "Flexibilidad",
+      "Resiliencia"
+    ]
+  },{
+    "name": "Resolución de problemas",
+    "keywords": [
+      "Lógica",
+      "Creatividad"
+    ]
+  }],
+  "languages": [{
       "language": "Español",
       "fluency": 100
     },{
@@ -261,8 +318,7 @@
         "Altas Energías",
         "Física Médica"
       ]
-    },
-    {
+    },{
       "name": "Instrumentación",
       "keywords": [
         "ESP32",
@@ -285,27 +341,39 @@
       ]
     }],
     "projects": [{
-      "name": "Creación de un sistema de impedancia para detección de cáncer de piel",
+      "name": "EngiBlog",
       "isActive": true,
       "startDate": "2025-01-01T00:00:00",
       "endDate": null,
-      "description": "Invención de un sistema económico no invasiva para evaluación de riesgo oncológido en tejido cutáneo.",
+      "description": "Un blog de ingenieros para ingenieros. Se busca impulsar a los alumnos de la DCI a la investigación y la difusión de ciencia al alcance de todos.",
       "highlights": [
-        "Proyecto mediante la placa comercial AD5933EBZ",
-        "Proyecto realizado para el laboratorio de Física Médica",
+        "Desarrollado con Astro",
+        "Proyecto para la difusión de conocimientos en ingeniería y ciencias",
         "Continúa en desarrollo"
       ],
-      "url": ""
+      "url": "https://engiblog.netlify.app"
     },{
       "name": "Creación de un sistema de impedancia para evaluación de calidad en vinos, tequilas y mezcales",
-      "isActive": true,
+      "isActive": false,
       "startDate": "2025-01-01T00:00:00",
-      "endDate": null,
+      "endDate": "2025-06-01T00:00:00",
       "description": "Invención de un sistema económico para la cuantificación y diferenciación de vinos, tequilas y mezcales.",
       "highlights": [
         "Proyecto mediante la placa comercial AD5933EBZ",
         "Proyecto realizado para el laboratorio de Bioimpedancia",
         "Continúa en desarrollo mediante un sistema propio"
+      ],
+      "url": ""
+    },{
+      "name": "Creación de un sistema de impedancia para detección de cáncer de piel",
+      "isActive": false,
+      "startDate": "2025-01-01T00:00:00",
+      "endDate": "2025-06-01T00:00:00",
+      "description": "Invención de un sistema económico no invasiva para evaluación de riesgo oncológido en tejido cutáneo.",
+      "highlights": [
+        "Proyecto mediante la placa comercial AD5933EBZ",
+        "Proyecto realizado para el laboratorio de Física Médica",
+        "Continúa en desarrollo"
       ],
       "url": ""
     },{
