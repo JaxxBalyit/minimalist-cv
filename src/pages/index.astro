@@ -11,13 +11,13 @@ import Certificates from '@/components/sections/Certificates.astro'
 import Interests from '@/components/sections/Interests.astro'
 import Languages from '@/components/sections/Languages.astro'
 import Publications from '@/components/sections/Publications.astro'
+import Conferences from '@/components/sections/Conferences.astro'
 
 import KeyboardManager from '@/components/KeyboardManager.astro'
 
 import { basics } from '@cv'
 
 const { name, label } = basics
-
 ---
 
 <Layout title=`Portafolio de ${name} - ${label}`>
@@ -26,9 +26,10 @@ const { name, label } = basics
 		<About />
 		<Experience />
 		<Education />
-		<Certificates />
-		<!-- <Publications /> -->
 		<Skills />
+		<Certificates />
+		<Conferences />
+		<!-- <Publications /> -->
 		<Interests />
 		<Languages />
 		<Projects />
