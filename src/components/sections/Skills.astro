@@ -1,10 +1,23 @@
 ---
-import { skills } from '@cv'
+import { skills, softSkills } from '@cv'
 
 import Section from '@/components/Section.astro'
 ---
 
 <Section title="Habilidades">
+    <ul class="softSkills">
+        {softSkills.map(({ name, keywords }) => (
+            <li class="skill-card">
+                <span class="skill-name">{name}</span>
+                <ul class="keywords">
+                    {keywords.map((keyword) => (
+                        <li class="keyword">{keyword}</li>
+                    ))}
+                </ul>
+            </li>
+        ))}
+    </ul>
+    <div class="space"></div>
     <ul class="skills">
         {skills.map(({ name, keywords }) => (
             <li class="skill-card">
@@ -68,5 +81,21 @@ import Section from '@/components/Section.astro'
         font-size: 0.7rem;
         text-align: center;
         box-sizing: 2px 2px 0 black;
+    }
+
+    .space {
+        height: 15px;
+    }
+
+    .softSkills {
+        display: grid;
+        grid-template-columns: repeat(
+            auto-fit,
+            minmax(165px, 1fr)
+        );
+        gap: 10px;
+        padding: 0;
+        list-style: none;
+        justify-content: center;
     }
 </style>
