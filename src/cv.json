@@ -195,6 +195,14 @@
         "Desarrollo de aplicaciones"
       ]
     },{
+      "name": "SQL",
+      "icon": "./icons/sql.astro",
+      "keywords": [
+        "Desarrollo web",
+        "Bases de datos",
+        "Desarrollo de software"
+      ]
+    },{
       "name": "Arduino/ESP32",
       "icon": "./icons/arduino.astro",
       "keywords": [
