@@ -77,6 +77,11 @@
     "endDate": "2020-06-12T00:00:00"
   }],
   "certificates": [{
+    "name": "Diseño Electrónico en KiCAD",
+    "date": "2025T00:00:00",
+    "issuer": "Udemy - Christian Tayupanta",
+    "referenceCode": "UC-d0e41954-5b77-44de-9f6a-29efbf61a2e4"
+  },{
     "name": "Introduction to Radioactive Sources and Their Applications",
     "date": "2025T00:00:00",
     "issuer": "IAEA's Cyber Learning Platform",
