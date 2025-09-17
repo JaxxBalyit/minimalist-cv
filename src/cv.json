@@ -365,7 +365,7 @@
     "isActive": true,
     "startDate": "2025-01-01T00:00:00",
     "endDate": null,
-    "description": "Un blog de ingenieros para ingenieros. Se busca impulsar a los alumnos de la DCI a la investigación y la difusión de ciencia al alcance de todos.",
+    "description": "Un blog para los apasionados por la ingeniería. Se busca impulsar a los alumnos a la investigación y la difusión de ciencia, estando al alcance de todos.",
     "highlights": [
       "Desarrollado con Astro",
       "Proyecto para la difusión de conocimientos en ingeniería y ciencias",
@@ -380,8 +380,7 @@
     "description": "Invención de un sistema económico para la cuantificación y diferenciación de vinos, tequilas y mezcales.",
     "highlights": [
       "Proyecto mediante la placa comercial AD5933EBZ",
-      "Proyecto realizado para el laboratorio de Bioimpedancia",
-      "Continúa en desarrollo mediante un sistema propio"
+      "Proyecto realizado para el laboratorio de Bioimpedancia"
     ],
     "url": ""
   },{
@@ -392,8 +391,7 @@
     "description": "Invención de un sistema económico no invasiva para evaluación de riesgo oncológido en tejido cutáneo.",
     "highlights": [
       "Proyecto mediante la placa comercial AD5933EBZ",
-      "Proyecto realizado para el laboratorio de Física Médica",
-      "Continúa en desarrollo"
+      "Proyecto realizado para el laboratorio de Física Médica"
     ],
     "url": ""
   },{
@@ -401,7 +399,7 @@
     "isActive": false,
     "startDate": "2023-01-01T00:00:00",
     "endDate": "2024-01-01T00:00:00",
-    "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro.",
+    "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro de alto vacío.",
     "highlights": [
       "Proyecto realizado en Arduino",
       "Proyecto realizado para el laboratorio de Espectroscopia Ultrafina"
@@ -412,7 +410,7 @@
     "isActive": false,
     "startDate": "2023-01-01T00:00:00",
     "endDate": "2024-01-01T00:00:00",
-    "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro.",
+    "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro de alto vacío.",
     "highlights": [
       "Proyecto realizado en Arduino",
       "Proyecto realizado para el laboratorio de Espectroscopia Ultrafina"
