@@ -77,6 +77,11 @@
     "endDate": "2020-06-12T00:00:00"
   }],
   "certificates": [{
+    "name": "Curso profesional de GIT",
+    "date": "2025T00:00:00",
+    "issuer": "CódigoFacilito - Manu Castrillón",
+    "referenceCode": "4e7779ea-cd04-472a-b4f7-8325fbda1570"
+  },{
     "name": "Diseño Electrónico en KiCAD",
     "date": "2025T00:00:00",
     "issuer": "Udemy - Christian Tayupanta",
