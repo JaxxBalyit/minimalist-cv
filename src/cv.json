@@ -77,6 +77,11 @@
     "endDate": "2020-06-12T00:00:00"
   }],
   "certificates": [{
+    "name": "Curso de Iniciación al Desarrollo con IA",
+    "date": "2025T00:00:00",
+    "issuer": "BIG School - Brais Moure",
+    "referenceCode": "tinyurl.com/Desarrollo-IA"
+  },{
     "name": "Curso a fondo de VIM",
     "date": "2025T00:00:00",
     "issuer": "CódigoFacilito - Juan Carlos Ruíz",
