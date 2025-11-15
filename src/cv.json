@@ -376,6 +376,18 @@
     ]
   }],
   "projects": [{
+    "name": "Physics Simulator",
+    "isActive": true,
+    "startDate": "2025-11-15T00:00:00",
+    "endDate": null,
+    "description": "Un simulador de física para la enseñanza de física. Integra C++ junto con Python para la visualización de gráficos.",
+    "highlights": [
+      "Desarrollado con C++ y Python",
+      "Proyecto para la enseñanza de física a niveles básicos",
+      "Continúa en desarrollo"
+    ],
+    "url": "https://github.com/JaxxBalyit/Physics-Simulator-Cpp"
+  },{
     "name": "EngiBlog",
     "isActive": true,
     "startDate": "2025-01-01T00:00:00",
