@@ -376,6 +376,18 @@
     ]
   }],
   "projects": [{
+    "name": "Visualización de datos con Astro y Python",
+    "isActive": true,
+    "startDate": "2025-11-19T00:00:00",
+    "endDate": null,
+    "description": "Un proyecto para la visualización de datos con Astro y Python. Se busca crear un proyecto que permita la visualización de datos variados en tiempo real.",
+    "highlights": [
+      "Desarrollado con Astro y Python",
+      "Proyecto para la visualización de datos climáticos en tiempo real",
+      "Continúa en desarrollo"
+    ],
+    "url": "https://github.com/JaxxBalyit/data_visualization_Astro-Python"
+  },{
     "name": "Physics Simulator",
     "isActive": true,
     "startDate": "2025-11-15T00:00:00",
