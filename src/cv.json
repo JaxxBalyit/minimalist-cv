@@ -77,6 +77,21 @@
     "endDate": "2020-06-12T00:00:00"
   }],
   "certificates": [{
+    "name": "Seguridad y Calidad en Radioterapia",
+    "date": "2025T00:00:00",
+    "issuer": "IAEA",
+    "referenceCode": ""
+  },{
+    "name": "Gestión de la Dosis de Radiación en Tomografía Computarizada",
+    "date": "2025T00:00:00",
+    "issuer": "IAEA's Cyber Learning Platform",
+    "referenceCode": ""
+  },{
+    "name": "Protección Radiológica en Radiología Dental",
+    "date": "2025T00:00:00",
+    "issuer": "IAEA's Cyber Learning Platform",
+    "referenceCode": ""
+  },{
     "name": "Curso de Iniciación al Desarrollo con IA",
     "date": "2025T00:00:00",
     "issuer": "BIG School - Brais Moure",
