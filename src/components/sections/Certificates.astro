@@ -8,13 +8,23 @@ import Section from '@/components/Section.astro'
     <ul class="certificates">
         {certificates.map(({ name, date, issuer, referenceCode }) => {
             const time = new Date(date).getFullYear()
-            return (
-                <li class="certificate-card">
-                    <span class="certificate-name">{name}</span>
-                    <time>{time}</time>
-                    <p class="reference-code">{issuer} <br /> Referencia: {referenceCode}</p>
-                </li>
-            )
+            if (referenceCode == "") {
+                return (
+                    <li class="certificate-card">
+                        <span class="certificate-name">{name}</span>
+                        <time>{time}</time>
+                        <p class="reference-code">{issuer}</p>
+                    </li>
+                )
+            } else {
+                return (
+                    <li class="certificate-card">
+                        <span class="certificate-name">{name}</span>
+                        <time>{time}</time>
+                        <p class="reference-code">{issuer} <br /> Referencia: {referenceCode}</p>
+                    </li>
+                )
+            }
         })}
     </ul>
 </Section>
