@@ -79,7 +79,7 @@
   "certificates": [{
     "name": "Seguridad y Calidad en Radioterapia",
     "date": "2025T00:00:00",
-    "issuer": "IAEA",
+    "issuer": "IAEA's Cyber Learning Platform",
     "referenceCode": ""
   },{
     "name": "Gestión de la Dosis de Radiación en Tomografía Computarizada",
