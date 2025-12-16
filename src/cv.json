@@ -6,7 +6,7 @@
     "email": "chavez.emmanuel020310@gmail.com",
     "phone": "+52 477 519-4016",
     "url": "",
-    "summary": "Estudiante de 9° semestre de la licenciatura en Ingeniería Física. Apasionado, líder, responsable, con inteligencia emocional, organizado. Actualmente aprendiendo programación, enfocado en especialización Full-Stack, autodidacta en desarrollo de software, y tomando cursos relacionados a la programación. Con habilidades en SolidWorks y maquinación de piezas en 3D (Ultimaker Cura). Entusiasta en la innovación y el desarrollo de soluciones industriales, enfocadas en física médica.",
+    "summary": "Egresado de la licenciatura en Ingeniería Física (proyecto laureado en instrumentación, promedio 9.05). Apasionado, líder, responsable, con inteligencia emocional, organizado. Actualmente aprendiendo programación, enfocado en especialización Full-Stack, autodidacta en desarrollo de software, y tomando cursos relacionados a la programación. Con habilidades en SolidWorks y maquinación de piezas en 3D (Ultimaker Cura). Entusiasta en la innovación y el desarrollo de soluciones industriales, enfocadas en física médica.",
     "location": {
       "address": "Puerto de Gibraltar 401",
       "postalCode": "37360",
@@ -40,17 +40,6 @@
       "+52 477-786-9961"
     ]
   },{
-    "name": "Ennovasol",
-    "position": "Programador Web Jr",
-    "startDate": "2023-08-15T00:00:00",
-    "endDate": "2023-09-24T00:00:00",
-    "summary": "Manual Web 3.0 (Implementación de TronWeb para un E-Commerce).",
-    "highlights": [
-      "El Deslinde 3415, Balcones de Aztlán, 64165, Monterrey, N.L.", 
-      "Francisco Javier Garza Villareal", 
-      "+52 81-1985-6473"
-    ]
-  },{
     "name": "Sarasvati",
     "position": "Asesor para Clases de Regularización",
     "startDate": "2021-03-01T00:00:00",
@@ -68,7 +57,7 @@
     "area": "Ingeniería Física",
     "studyType": "Licenciatura",
     "startDate": "2021-08-09T00:00:00",
-    "endDate": null
+    "endDate": "2025-12-11T00:00:00"
   },{
     "institution": "Universidad de Guanajuato",
     "area": "Físico Matemático",
@@ -163,6 +152,10 @@
     "referenceCode": "ca94a6c92d8846cdb0798cf36863cb7"
   }],
   "conferences": [{
+    "name": "25° Encuentro de Ciencia y Tecnología",
+    "date": "2025-12-04T00:00:00",
+    "issuer": "Instituto Politécnico Nacional"
+  },{
     "name": "Foro de Investigación Científica - 20° Aniversario de la Unidad de Investigación de Epidemiología Clínica",
     "date": "2025-07-10T00:00:00",
     "issuer": "Instituto Mexicano de Seguridad Social"
@@ -179,7 +172,7 @@
     "date": "2025-05-05T00:00:00",
     "issuer": "Universidad de Guanajuato"
   },{
-    "name": "Encuentro de Ciencia y Tecnología",
+    "name": "24° Encuentro de Ciencia y Tecnología",
     "date": "2024-11-21T00:00:00",
     "issuer": "Instituto Politécnico Nacional"
   },{
@@ -391,6 +384,18 @@
     ]
   }],
   "projects": [{
+    "name": "Bitácora de Laboratorio en Python",
+    "isActive": true,
+    "startDate": "2025-12-15T00:00:00",
+    "endDate": null,
+    "description": "Aplicación en Python para el control de experimentos de un laboratorio, el cual implementa SQL para la base de datos y ofrece una interfaz gráfica para la visualización de los datos.",
+    "highlights": [
+      "Desarrollado con Python",
+      "Proyecto para el control de experimentos de un laboratorio",
+      "Continúa en desarrollo"
+    ],
+    "url": "https://github.com/JaxxBalyit/Lab-Manager-Python-SQL"
+  },{
     "name": "Visualización de datos con Astro y Python",
     "isActive": true,
     "startDate": "2025-11-19T00:00:00",
