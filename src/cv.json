@@ -384,6 +384,18 @@
     ]
   }],
   "projects": [{
+    "name": "Portafolio de Análisis de Datos",
+    "isActive": false,
+    "startDate": "2025-12-19T00:00:00",
+    "endDate": "2026-01-03T00:00:00",
+    "description": "Proyecto personal para mostrar habilidades en análisis de datos, visualización y programación.",
+    "highlights": [
+      "Análisis de datos con Python",
+      "Visualización con matplotlib y seaborn",
+      "Desarrollo web con Astro"
+    ],
+    "url": "https://github.com/JaxxBalyit/DataAnalysisPortfolio"
+  },{
     "name": "Bitácora de Laboratorio en Python",
     "isActive": true,
     "startDate": "2025-12-15T00:00:00",
