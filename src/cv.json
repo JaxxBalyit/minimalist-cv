@@ -66,6 +66,11 @@
     "endDate": "2020-06-12T00:00:00"
   }],
   "certificates": [{
+    "name": "Masterclass de Automatizaciones con IA",
+    "date": "2026T00:00:00",
+    "issuer": "Raiola Networks - Álvaro Fontela",
+    "referenceCode": "tinyurl.com/Automatizacion-RN"
+  },{
     "name": "Seguridad y Calidad en Radioterapia",
     "date": "2025T00:00:00",
     "issuer": "IAEA's Cyber Learning Platform",
