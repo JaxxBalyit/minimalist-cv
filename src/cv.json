@@ -186,10 +186,12 @@
     "issuer": "Universidad de Guanajuato"
   }],
   "publications": [{
-    "name": "Publication Title",
-    "journal": "Journal N",
-    "releaseDate": "2014-10-01T00:00:00",
-    "DOI": "doi number"
+    "name": "MRI - Review's manuscript",
+    "journal": "Kronika Journals",
+    "volume": 26,
+    "issue": 3,
+    "releaseDate": "2026-04-01T00:00:00",
+    "DOI": "10.5281/zenodo.19368055"
   }],
   "skills": [{
     "name": "HTML",
