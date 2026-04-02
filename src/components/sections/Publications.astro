@@ -6,7 +6,7 @@ import Section from '@/components/Section.astro'
 
 <Section title="Publicaciones">
     <ul>
-        {publications.map(({ name, releaseDate, DOI, journal }) => {
+        {publications.map(({ name, releaseDate, DOI, journal, volume, issue }) => {
           const options: Intl.DateTimeFormatOptions = {day: "2-digit", month: "short", year: "numeric"}
           const time = new Date(releaseDate).toLocaleString('es-MX', options)
           const url = `https://doi.org/${DOI}`
@@ -20,7 +20,7 @@ import Section from '@/components/Section.astro'
                       <time>{time}</time>
                   </header>
                   <footer>
-                      <p>{journal} - DOI: <a href={url}>{url}</a></p>
+                      <p>{journal}{volume ? ` (Vol. ${volume}` : ''}{issue ? ` - Issue ${issue})` : ''} - DOI: <a href={url}>{url}</a></p>
                   </footer>
               </article>
           </li>
