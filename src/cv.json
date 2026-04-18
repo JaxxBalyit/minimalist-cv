@@ -33,6 +33,17 @@
     }]
   },
   "work": [{
+    "name": "Suburban",
+    "position": "Desarrollador de Software",
+    "startDate": "2026-04-21T00:00:00",
+    "endDate": null,
+    "summary": "Creación de un sistema SAP para la gestión de personal, ventas y logística.",
+    "highlights": [
+      "San Juan de la Cruz 420, Anáhuac, 66450 San Nicolás de los Garza, N.L.", 
+      "Emilio Carrillo Zepeda", 
+      "+52 81-8366-1883"
+    ]
+  },{
     "name": "Verano de Investigación UG",
     "position": "Investigador / Instrumentista",
     "startDate": "2025-06-09T00:00:00",
