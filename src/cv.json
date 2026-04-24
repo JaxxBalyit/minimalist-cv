@@ -406,41 +406,17 @@
     ]
   }],
   "projects": [{
-    "name": "Portafolio de Análisis de Datos",
-    "isActive": false,
-    "startDate": "2025-12-19T00:00:00",
-    "endDate": "2026-01-03T00:00:00",
-    "description": "Proyecto personal para mostrar habilidades en análisis de datos, visualización y programación.",
-    "highlights": [
-      "Análisis de datos con Python",
-      "Visualización con matplotlib y seaborn",
-      "Desarrollo web con Astro"
-    ],
-    "url": "https://github.com/JaxxBalyit/DataAnalysisPortfolio"
-  },{
-    "name": "Bitácora de Laboratorio en Python",
+    "name": "EngiBlog",
     "isActive": true,
-    "startDate": "2025-12-15T00:00:00",
+    "startDate": "2025-01-01T00:00:00",
     "endDate": null,
-    "description": "Aplicación en Python para el control de experimentos de un laboratorio, el cual implementa SQL para la base de datos y ofrece una interfaz gráfica para la visualización de los datos.",
+    "description": "Un blog para los apasionados por la ingeniería. Se busca impulsar a los alumnos a la investigación y la difusión de ciencia, estando al alcance de todos.",
     "highlights": [
-      "Desarrollado con Python",
-      "Proyecto para el control de experimentos de un laboratorio",
+      "Desarrollado con Astro",
+      "Proyecto para la difusión de conocimientos en ingeniería y ciencias",
       "Continúa en desarrollo"
     ],
-    "url": "https://github.com/JaxxBalyit/Lab-Manager-Python-SQL"
-  },{
-    "name": "Visualización de datos con Astro y Python",
-    "isActive": true,
-    "startDate": "2025-11-19T00:00:00",
-    "endDate": null,
-    "description": "Un proyecto para la visualización de datos con Astro y Python. Se busca crear un proyecto que permita la visualización de datos variados en tiempo real.",
-    "highlights": [
-      "Desarrollado con Astro y Python",
-      "Proyecto para la visualización de datos climáticos en tiempo real",
-      "Continúa en desarrollo"
-    ],
-    "url": "https://github.com/JaxxBalyit/data_visualization_Astro-Python"
+    "url": "https://engiblog.netlify.app"
   },{
     "name": "Physics Simulator",
     "isActive": true,
@@ -454,17 +430,41 @@
     ],
     "url": "https://github.com/JaxxBalyit/Physics-Simulator-Cpp"
   },{
-    "name": "EngiBlog",
-    "isActive": true,
-    "startDate": "2025-01-01T00:00:00",
-    "endDate": null,
-    "description": "Un blog para los apasionados por la ingeniería. Se busca impulsar a los alumnos a la investigación y la difusión de ciencia, estando al alcance de todos.",
+    "name": "Portafolio de Análisis de Datos",
+    "isActive": false,
+    "startDate": "2025-12-19T00:00:00",
+    "endDate": "2026-01-03T00:00:00",
+    "description": "Proyecto personal para mostrar habilidades en análisis de datos, visualización y programación.",
     "highlights": [
-      "Desarrollado con Astro",
-      "Proyecto para la difusión de conocimientos en ingeniería y ciencias",
+      "Análisis de datos con Python",
+      "Visualización con matplotlib y seaborn",
+      "Desarrollo web con Astro"
+    ],
+    "url": "https://github.com/JaxxBalyit/DataAnalysisPortfolio"
+  },{
+    "name": "Bitácora de Laboratorio en Python",
+    "isActive": false,
+    "startDate": "2025-12-15T00:00:00",
+    "endDate": "2026-02-01T00:00:00",
+    "description": "Aplicación en Python para el control de experimentos de un laboratorio, el cual implementa SQL para la base de datos y ofrece una interfaz gráfica para la visualización de los datos.",
+    "highlights": [
+      "Desarrollado con Python",
+      "Proyecto para el control de experimentos de un laboratorio",
       "Continúa en desarrollo"
     ],
-    "url": "https://engiblog.netlify.app"
+    "url": "https://github.com/JaxxBalyit/Lab-Manager-Python-SQL"
+  },{
+    "name": "Visualización de datos con Astro y Python",
+    "isActive": false,
+    "startDate": "2025-11-19T00:00:00",
+    "endDate": "2026-02-15T00:00:00",
+    "description": "Un proyecto para la visualización de datos con Astro y Python. Se busca crear un proyecto que permita la visualización de datos variados en tiempo real.",
+    "highlights": [
+      "Desarrollado con Astro y Python",
+      "Proyecto para la visualización de datos climáticos en tiempo real",
+      "Continúa en desarrollo"
+    ],
+    "url": "https://github.com/JaxxBalyit/data_visualization_Astro-Python"
   },{
     "name": "Creación de un sistema de impedancia para evaluación de calidad en vinos, tequilas y mezcales",
     "isActive": false,
