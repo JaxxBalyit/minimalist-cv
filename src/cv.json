@@ -426,8 +426,7 @@
     "description": "Proyecto personal para mostrar habilidades en análisis de datos, visualización y programación.",
     "highlights": [
       "Análisis de datos con Python",
-      "Visualización con matplotlib y seaborn",
-      "Desarrollo web con Astro"
+      "Visualización con matplotlib y seaborn"
     ],
     "url": "https://github.com/JaxxBalyit/DataAnalysisPortfolio"
   },{
@@ -438,8 +437,7 @@
     "description": "Aplicación en Python para el control de experimentos de un laboratorio, el cual implementa SQL para la base de datos y ofrece una interfaz gráfica para la visualización de los datos.",
     "highlights": [
       "Desarrollado con Python",
-      "Proyecto para el control de experimentos de un laboratorio",
-      "Continúa en desarrollo"
+      "Proyecto para el control de experimentos de un laboratorio"
     ],
     "url": "https://github.com/JaxxBalyit/Lab-Manager-Python-SQL"
   },{
