@@ -161,6 +161,10 @@
     "referenceCode": "ca94a6c92d8846cdb0798cf36863cb7"
   }],
   "conferences": [{
+    "name": "6° Congreso de Ingeniería y Física Aplicada a la Biomédica",
+    "date": "2026-05-12T00:00:00",
+    "issuer": "Universidad de Guanajuato"
+  },{
     "name": "13° Encuentro de Ciencia y Tecnología",
     "date": "2025-12-04T00:00:00",
     "issuer": "Instituto Politécnico Nacional"
