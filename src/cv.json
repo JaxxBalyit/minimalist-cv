@@ -33,6 +33,17 @@
     }]
   },
   "work": [{
+    "name": "Zero Entropy",
+    "position": "CEO - Integrador",
+    "startDate": "2026-05-23T00:00:00",
+    "endDate": null,
+    "summary": "Diseño de software a la medida y automatizaciones de precisión para PyMEs",
+    "highlights": [
+      "León, Gto.", 
+      "José Emmanuel Chávez Zepeda / Arturo Nájar Alarcón", 
+      "+52 477-519-4016 / +52 477-552-6240"
+    ]
+  },{
     "name": "Suburban",
     "position": "Desarrollador de Software",
     "startDate": "2026-04-21T00:00:00",
@@ -70,6 +81,11 @@
     "endDate": "2020-06-12T00:00:00"
   }],
   "certificates": [{
+    "name": "Curso Profesional de PHP 8",
+    "date": "2026T00:00:00",
+    "issuer": "CódigoFacilito - Marines Mendez Gallegos",
+    "referenceCode": ""
+  },{
     "name": "Masterclass de Automatizaciones con IA",
     "date": "2026T00:00:00",
     "issuer": "Raiola Networks - Álvaro Fontela",
@@ -259,6 +275,14 @@
       "Desarrollo web",
       "Bases de datos",
       "Desarrollo de software"
+    ]
+  },{
+    "name": "PHP",
+    "icon": "./icons/php.astro",
+    "keywords": [
+      "Desarrollo web",
+      "Bases de datos",
+      "Programación Orientada a Objetos"
     ]
   },{
     "name": "Arduino/ESP32",
