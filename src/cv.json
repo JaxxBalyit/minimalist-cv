@@ -14,561 +14,659 @@
       "countryCode": "MX",
       "region": "Guanajuato"
     },
-    "profiles": [{
-      "network": "GitHub",
-      "username": "JaxxBalyit",
-      "url": "https://github.com/JaxxBalyit"
-    }, {
-      "network": "LinkedIn",
-      "username": "José Emmanuel Chávez Zepeda",
-      "url": "https://www.linkedin.com/in/emmachavez547/"
-    }, {
-      "network": "ORCID",
-      "username": "0009-0005-3111-9527",
-      "url": "https://orcid.org/0009-0005-3111-9527"
-    }, {
-      "network": "Instagram",
-      "username": "emma_chavez_mk",
-      "url": "https://www.instagram.com/emma_chavez_mk/"
-    }]
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "JaxxBalyit",
+        "url": "https://github.com/JaxxBalyit"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "José Emmanuel Chávez Zepeda",
+        "url": "https://www.linkedin.com/in/emmachavez547/"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0005-3111-9527",
+        "url": "https://orcid.org/0009-0005-3111-9527"
+      },
+      {
+        "network": "Instagram",
+        "username": "emma_chavez_mk",
+        "url": "https://www.instagram.com/emma_chavez_mk/"
+      }
+    ]
   },
-  "work": [{
-    "name": "Zero Entropy",
-    "position": "CEO - Integrador",
-    "startDate": "2026-05-23T00:00:00",
-    "endDate": null,
-    "summary": "Diseño de software a la medida y automatizaciones de precisión para PyMEs",
-    "highlights": [
-      "León, Gto.", 
-      "José Emmanuel Chávez Zepeda / Arturo Nájar Alarcón", 
-      "+52 477-519-4016 / +52 477-552-6240"
-    ]
-  },{
-    "name": "Suburban",
-    "position": "Desarrollador de Software",
-    "startDate": "2026-04-21T00:00:00",
-    "endDate": null,
-    "summary": "Creación de un sistema SAP para la gestión de personal, ventas y logística.",
-    "highlights": [
-      "San Juan de la Cruz 420, Anáhuac, 66450 San Nicolás de los Garza, N.L.", 
-      "Emilio Carrillo Zepeda", 
-      "+52 81-8366-1883"
-    ]
-  },{
-    "name": "Sarasvati",
-    "position": "Asesor para Clases de Regularización",
-    "startDate": "2021-03-01T00:00:00",
-    "endDate": "2022-10-18T00:00:00",
-    "summary": "Clases de regularización de Matemáticas, Química y Física.",
-    "highlights": [
-      "Rosas Moreno 312-C, San Juan de Dios, 37000, León, Gto", 
-      "Victor Francisco Sañudo Sabido", 
-      "+52 477-264-3042"
-    ]
-  }
-],
-  "education": [{
-    "institution": "Universidad de Guanajuato",
-    "area": "Ingeniería Física",
-    "studyType": "Licenciatura",
-    "startDate": "2021-08-09T00:00:00",
-    "endDate": "2025-12-11T00:00:00"
-  },{
-    "institution": "Universidad de Guanajuato",
-    "area": "Físico Matemático",
-    "studyType": "Pregrado",
-    "startDate": "2017-08-07T00:00:00",
-    "endDate": "2020-06-12T00:00:00"
-  }],
-  "certificates": [{
-    "name": "Curso Profesional de PHP 8",
-    "date": "2026T00:00:00",
-    "issuer": "CódigoFacilito - Marines Mendez Gallegos",
-    "referenceCode": ""
-  },{
-    "name": "Masterclass de Automatizaciones con IA",
-    "date": "2026T00:00:00",
-    "issuer": "Raiola Networks - Álvaro Fontela",
-    "referenceCode": "tinyurl.com/Automatizacion-RN"
-  },{
-    "name": "Seguridad y Calidad en Radioterapia",
-    "date": "2025T00:00:00",
-    "issuer": "IAEA's Cyber Learning Platform",
-    "referenceCode": ""
-  },{
-    "name": "Gestión de la Dosis de Radiación en Tomografía Computarizada",
-    "date": "2025T00:00:00",
-    "issuer": "IAEA's Cyber Learning Platform",
-    "referenceCode": ""
-  },{
-    "name": "Protección Radiológica en Radiología Dental",
-    "date": "2025T00:00:00",
-    "issuer": "IAEA's Cyber Learning Platform",
-    "referenceCode": ""
-  },{
-    "name": "Curso de Iniciación al Desarrollo con IA",
-    "date": "2025T00:00:00",
-    "issuer": "BIG School - Brais Moure",
-    "referenceCode": "tinyurl.com/Desarrollo-IA"
-  },{
-    "name": "Curso a fondo de VIM",
-    "date": "2025T00:00:00",
-    "issuer": "CódigoFacilito - Juan Carlos Ruíz",
-    "referenceCode": "89986535-c728-4b9a-9f16-50a78a4ff2c0"
-  },{
-    "name": "Curso profesional de Git",
-    "date": "2025T00:00:00",
-    "issuer": "CódigoFacilito - Manu Castrillón",
-    "referenceCode": "4e7779ea-cd04-472a-b4f7-8325fbda1570"
-  },{
-    "name": "Diseño Electrónico en KiCAD",
-    "date": "2025T00:00:00",
-    "issuer": "Udemy - Christian Tayupanta",
-    "referenceCode": "UC-d0e41954-5b77-44de-9f6a-29efbf61a2e4"
-  },{
-    "name": "Introduction to Radioactive Sources and Their Applications",
-    "date": "2025T00:00:00",
-    "issuer": "IAEA's Cyber Learning Platform",
-    "referenceCode": "tXMxvUX0hl"
-  },{
-    "name": "Sistema Globalmente Armonizado",
-    "date": "2024T00:00:00",
-    "issuer": "IMSS - CRESTCAP",
-    "referenceCode": "GTO-R-0020/2024"
-  },{
-    "name": "Introducción a los Agentes Químicos",
-    "date": "2024T00:00:00",
-    "issuer": "IMSS - CRESTCAP",
-    "referenceCode": "GTO-R-1461/2024"
-  },{
-    "name": "Selección, Uso y Mantenimiento del Equipo de Protección Personal",
-    "date": "2024T00:00:00",
-    "issuer": "IMSS - CRESTCAP",
-    "referenceCode": "GTO-R-1397/2024"
-  },{
-    "name": "Introducción a la Salud y la Seguridad en el Trabajo",
-    "date": "2024T00:00:00",
-    "issuer": "IMSS - CRESTCAP",
-    "referenceCode": "GTO-R-1553/2024"
-  },{
-    "name": "Análisis de Datos con Python",
-    "date": "2024T00:00:00",
-    "issuer": "IECA",
-    "referenceCode": "GTSAE-012181"
-  },{
-    "name": "Desarrollo Web con React",
-    "date": "2024T00:00:00",
-    "issuer": "IECA",
-    "referenceCode": "GTSAE-005095"
-  },{
-    "name": "CS50's Introduction to Computer Science",
-    "date": "2023T00:00:00",
-    "issuer": "HarvardX - CS50x",
-    "referenceCode": "9ceddd79c2984a55a8ef11dcda4fb89"
-  },{
-    "name": "py4e101x: Programming for Everybody",
-    "date": "2022T00:00:00",
-    "issuer": "MichiganX - py4e101x",
-    "referenceCode": "f9bdff0ea5374bd9b3f3a5c624e88b0e"
-  },{
-    "name": "Introduction to Computer Science and Programming Using Python",
-    "date": "2022T00:00:00",
-    "issuer": "MITx - 6.00.1x",
-    "referenceCode": "ca94a6c92d8846cdb0798cf36863cb7"
-  }],
-  "conferences": [{
-    "name": "6° Congreso de Ingeniería y Física Aplicada a la Biomédica",
-    "date": "2026-05-12T00:00:00",
-    "issuer": "Universidad de Guanajuato"
-  },{
-    "name": "13° Encuentro de Ciencia y Tecnología",
-    "date": "2025-12-04T00:00:00",
-    "issuer": "Instituto Politécnico Nacional"
-  },{
-    "name": "Foro de Investigación Científica - 20° Aniversario de la Unidad de Investigación de Epidemiología Clínica",
-    "date": "2025-07-10T00:00:00",
-    "issuer": "Instituto Mexicano de Seguridad Social"
-  },{
-    "name": "International Conference on Electrical Bioimpedance and Electrical Impedance Tomography",
-    "date": "2025-06-26T00:00:00",
-    "issuer": "ICEBI - EIT - CNIBi 2025"
-  },{
-    "name": "XXII encuentro Participación de la Mujer en la Ciencia",
-    "date": "2025-05-22T00:00:00",
-    "issuer": "Centro de Investigaciones en Óptica A.C."
-  },{
-    "name": "5° Congreso de Ingeniería y Física Aplicada a la Biomedicina",
-    "date": "2025-05-05T00:00:00",
-    "issuer": "Universidad de Guanajuato"
-  },{
-    "name": "12° Encuentro de Ciencia y Tecnología",
-    "date": "2024-11-21T00:00:00",
-    "issuer": "Instituto Politécnico Nacional"
-  },{
-    "name": "5° Congreso Iberoamericano de Magnetobiología",
-    "date": "2024-07-24T00:00:00",
-    "issuer": "Universidad de Guanajuato"
-  }],
-  "publications": [{
-    "name": "MRI - Review's manuscript",
-    "journal": "Kronika Journals",
-    "volume": 26,
-    "issue": 3,
-    "releaseDate": "2026-04-01T00:00:00",
-    "DOI": "10.5281/zenodo.19368055"
-  }],
-  "skills": [{
-    "name": "HTML",
-    "icon": "./icons/html.astro",
-    "keywords": [
-      "Desarrollo web"
-    ]
-  },{
-    "name": "CSS",
-    "icon": "./icons/css.astro",
-    "keywords": [
-      "Desarrollo web"
-    ]
-  },{
-    "name": "JavaScript",
-    "icon": "./icons/javascript.astro",
-    "keywords": [
-      "Desarrollo web"
-    ]
-  },{
-    "name": "TypeScript",
-    "icon": "./icons/type.astro",
-    "keywords": [
-      "Desarrollo web"
-    ]
-  },{
-    "name": "React",
-    "icon": "./icons/react.astro",
-    "keywords": [
-      "Desarrollo web"
-    ]
-  },{
-    "name": "Astro",
-    "icon": "./icons/astro.astro",
-    "keywords": [
-      "Desarrollo web"
-    ]
-  },{
-    "name": "Node.js",
-    "icon": "./icons/node.astro",
-    "keywords": [
-      "Desarrollo web",
-      "Backend"
-    ]
-  },{
-    "name": "Python",
-    "icon": "./icons/python.astro",
-    "keywords": [
-      "Desarrollo web",
-      "Desarrollo de software",
-      "Desarrollo de aplicaciones"
-    ]
-  },{
-    "name": "SQL",
-    "icon": "./icons/sql.astro",
-    "keywords": [
-      "Desarrollo web",
-      "Bases de datos",
-      "Desarrollo de software"
-    ]
-  },{
-    "name": "PHP",
-    "icon": "./icons/php.astro",
-    "keywords": [
-      "Desarrollo web",
-      "Bases de datos",
-      "Programación Orientada a Objetos"
-    ]
-  },{
-    "name": "Arduino/ESP32",
-    "icon": "./icons/arduino.astro",
-    "keywords": [
-      "Instrumentación",
-      "Desarrollo de software"
-    ]
-  },{
-    "name": "Git",
-    "icon": "./icons/git.astro",
-    "keywords": [
-      "Control de versiones",
-      "GitHub"
-    ]
-  },{
-    "name": "Solidworks/Fusion 360",
-    "icon": "./icons/solid.astro",
-    "keywords": [
-      "Desarrollo 3D",
-      "Modelado 3D",
-      "Ensamblaje 3D"
-    ]
-  },{
-    "name": "Ultimaker Cura",
-    "icon": "",
-    "keywords": [
-      "Impresión 3D",
-      "Modelado 3D"
-    ]
-  },{
-    "name": "KiCad 8",
-    "icon": "",
-    "keywords": [
-      "Circuitos electrónicos",
-      "PCB",
-      "Instrumentación"
-    ]
-  },{
-    "name": "DipTrace",
-    "icon": "",
-    "keywords": [
-      "Circuitos electrónicos",
-      "PCB",
-      "Instrumentación"
-    ]
-  }
-],
-"softSkills": [{
-  "name": "Manejo del Tiempo",
-  "keywords": [
-    "Organización",
-    "Responsabilidad"
+  "work": [
+    {
+      "name": "Zero Entropy",
+      "position": "CEO - Integrador",
+      "startDate": "2026-05-23T00:00:00",
+      "endDate": null,
+      "summary": "Diseño de software a la medida y automatizaciones de precisión para PyMEs",
+      "highlights": [
+        "León, Gto.",
+        "José Emmanuel Chávez Zepeda / Arturo Nájar Alarcón",
+        "+52 477-519-4016 / +52 477-552-6240"
+      ]
+    },
+    {
+      "name": "Suburban",
+      "position": "Desarrollador de Software",
+      "startDate": "2026-04-21T00:00:00",
+      "endDate": null,
+      "summary": "Creación de un sistema SAP para la gestión de personal, ventas y logística.",
+      "highlights": [
+        "San Juan de la Cruz 420, Anáhuac, 66450 San Nicolás de los Garza, N.L.",
+        "Emilio Carrillo Zepeda",
+        "+52 81-8366-1883"
+      ]
+    },
+    {
+      "name": "Sarasvati",
+      "position": "Asesor para Clases de Regularización",
+      "startDate": "2021-03-01T00:00:00",
+      "endDate": "2022-10-18T00:00:00",
+      "summary": "Clases de regularización de Matemáticas, Química y Física.",
+      "highlights": [
+        "Rosas Moreno 312-C, San Juan de Dios, 37000, León, Gto",
+        "Victor Francisco Sañudo Sabido",
+        "+52 477-264-3042"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Virtual del Estado de Guanajuato",
+      "area": "Ciencia de Datos e Inteligencia Artificial",
+      "studyType": "Microcredencial (Diplomado)",
+      "startDate": "2026-04-29T00:00:00",
+      "endDate": "2026-07-29T00:00:00"
+    },
+    {
+      "institution": "Universidad de Guanajuato",
+      "area": "Ingeniería Física",
+      "studyType": "Licenciatura",
+      "startDate": "2021-08-09T00:00:00",
+      "endDate": "2025-12-11T00:00:00"
+    },
+    {
+      "institution": "Universidad de Guanajuato",
+      "area": "Físico Matemático",
+      "studyType": "Pregrado",
+      "startDate": "2017-08-07T00:00:00",
+      "endDate": "2020-06-12T00:00:00"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Curso Profesional de PHP 8",
+      "date": "2026T00:00:00",
+      "issuer": "CódigoFacilito - Marines Mendez Gallegos",
+      "referenceCode": ""
+    },
+    {
+      "name": "Masterclass de Automatizaciones con IA",
+      "date": "2026T00:00:00",
+      "issuer": "Raiola Networks - Álvaro Fontela",
+      "referenceCode": "tinyurl.com/Automatizacion-RN"
+    },
+    {
+      "name": "Seguridad y Calidad en Radioterapia",
+      "date": "2025T00:00:00",
+      "issuer": "IAEA's Cyber Learning Platform",
+      "referenceCode": ""
+    },
+    {
+      "name": "Gestión de la Dosis de Radiación en Tomografía Computarizada",
+      "date": "2025T00:00:00",
+      "issuer": "IAEA's Cyber Learning Platform",
+      "referenceCode": ""
+    },
+    {
+      "name": "Protección Radiológica en Radiología Dental",
+      "date": "2025T00:00:00",
+      "issuer": "IAEA's Cyber Learning Platform",
+      "referenceCode": ""
+    },
+    {
+      "name": "Curso de Iniciación al Desarrollo con IA",
+      "date": "2025T00:00:00",
+      "issuer": "BIG School - Brais Moure",
+      "referenceCode": "tinyurl.com/Desarrollo-IA"
+    },
+    {
+      "name": "Curso a fondo de VIM",
+      "date": "2025T00:00:00",
+      "issuer": "CódigoFacilito - Juan Carlos Ruíz",
+      "referenceCode": "89986535-c728-4b9a-9f16-50a78a4ff2c0"
+    },
+    {
+      "name": "Curso profesional de Git",
+      "date": "2025T00:00:00",
+      "issuer": "CódigoFacilito - Manu Castrillón",
+      "referenceCode": "4e7779ea-cd04-472a-b4f7-8325fbda1570"
+    },
+    {
+      "name": "Diseño Electrónico en KiCAD",
+      "date": "2025T00:00:00",
+      "issuer": "Udemy - Christian Tayupanta",
+      "referenceCode": "UC-d0e41954-5b77-44de-9f6a-29efbf61a2e4"
+    },
+    {
+      "name": "Introduction to Radioactive Sources and Their Applications",
+      "date": "2025T00:00:00",
+      "issuer": "IAEA's Cyber Learning Platform",
+      "referenceCode": "tXMxvUX0hl"
+    },
+    {
+      "name": "Sistema Globalmente Armonizado",
+      "date": "2024T00:00:00",
+      "issuer": "IMSS - CRESTCAP",
+      "referenceCode": "GTO-R-0020/2024"
+    },
+    {
+      "name": "Introducción a los Agentes Químicos",
+      "date": "2024T00:00:00",
+      "issuer": "IMSS - CRESTCAP",
+      "referenceCode": "GTO-R-1461/2024"
+    },
+    {
+      "name": "Selección, Uso y Mantenimiento del Equipo de Protección Personal",
+      "date": "2024T00:00:00",
+      "issuer": "IMSS - CRESTCAP",
+      "referenceCode": "GTO-R-1397/2024"
+    },
+    {
+      "name": "Introducción a la Salud y la Seguridad en el Trabajo",
+      "date": "2024T00:00:00",
+      "issuer": "IMSS - CRESTCAP",
+      "referenceCode": "GTO-R-1553/2024"
+    },
+    {
+      "name": "Análisis de Datos con Python",
+      "date": "2024T00:00:00",
+      "issuer": "IECA",
+      "referenceCode": "GTSAE-012181"
+    },
+    {
+      "name": "Desarrollo Web con React",
+      "date": "2024T00:00:00",
+      "issuer": "IECA",
+      "referenceCode": "GTSAE-005095"
+    },
+    {
+      "name": "CS50's Introduction to Computer Science",
+      "date": "2023T00:00:00",
+      "issuer": "HarvardX - CS50x",
+      "referenceCode": "9ceddd79c2984a55a8ef11dcda4fb89"
+    },
+    {
+      "name": "py4e101x: Programming for Everybody",
+      "date": "2022T00:00:00",
+      "issuer": "MichiganX - py4e101x",
+      "referenceCode": "f9bdff0ea5374bd9b3f3a5c624e88b0e"
+    },
+    {
+      "name": "Introduction to Computer Science and Programming Using Python",
+      "date": "2022T00:00:00",
+      "issuer": "MITx - 6.00.1x",
+      "referenceCode": "ca94a6c92d8846cdb0798cf36863cb7"
+    }
+  ],
+  "conferences": [
+    {
+      "name": "6° Congreso de Ingeniería y Física Aplicada a la Biomédica",
+      "date": "2026-05-12T00:00:00",
+      "issuer": "Universidad de Guanajuato"
+    },
+    {
+      "name": "13° Encuentro de Ciencia y Tecnología",
+      "date": "2025-12-04T00:00:00",
+      "issuer": "Instituto Politécnico Nacional"
+    },
+    {
+      "name": "Foro de Investigación Científica - 20° Aniversario de la Unidad de Investigación de Epidemiología Clínica",
+      "date": "2025-07-10T00:00:00",
+      "issuer": "Instituto Mexicano de Seguridad Social"
+    },
+    {
+      "name": "International Conference on Electrical Bioimpedance and Electrical Impedance Tomography",
+      "date": "2025-06-26T00:00:00",
+      "issuer": "ICEBI - EIT - CNIBi 2025"
+    },
+    {
+      "name": "XXII encuentro Participación de la Mujer en la Ciencia",
+      "date": "2025-05-22T00:00:00",
+      "issuer": "Centro de Investigaciones en Óptica A.C."
+    },
+    {
+      "name": "5° Congreso de Ingeniería y Física Aplicada a la Biomedicina",
+      "date": "2025-05-05T00:00:00",
+      "issuer": "Universidad de Guanajuato"
+    },
+    {
+      "name": "12° Encuentro de Ciencia y Tecnología",
+      "date": "2024-11-21T00:00:00",
+      "issuer": "Instituto Politécnico Nacional"
+    },
+    {
+      "name": "5° Congreso Iberoamericano de Magnetobiología",
+      "date": "2024-07-24T00:00:00",
+      "issuer": "Universidad de Guanajuato"
+    }
+  ],
+  "publications": [
+    {
+      "name": "MRI - Review's manuscript",
+      "journal": "Kronika Journals",
+      "volume": 26,
+      "issue": 3,
+      "releaseDate": "2026-04-01T00:00:00",
+      "DOI": "10.5281/zenodo.19368055"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "./icons/html.astro",
+      "keywords": [
+        "Desarrollo web"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "./icons/css.astro",
+      "keywords": [
+        "Desarrollo web"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "./icons/javascript.astro",
+      "keywords": [
+        "Desarrollo web"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "./icons/type.astro",
+      "keywords": [
+        "Desarrollo web"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "./icons/react.astro",
+      "keywords": [
+        "Desarrollo web"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "./icons/astro.astro",
+      "keywords": [
+        "Desarrollo web"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "icon": "./icons/node.astro",
+      "keywords": [
+        "Desarrollo web",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Python",
+      "icon": "./icons/python.astro",
+      "keywords": [
+        "Desarrollo web",
+        "Desarrollo de software",
+        "Desarrollo de aplicaciones"
+      ]
+    },
+    {
+      "name": "SQL",
+      "icon": "./icons/sql.astro",
+      "keywords": [
+        "Desarrollo web",
+        "Bases de datos",
+        "Desarrollo de software"
+      ]
+    },
+    {
+      "name": "PHP",
+      "icon": "./icons/php.astro",
+      "keywords": [
+        "Desarrollo web",
+        "Bases de datos",
+        "Programación Orientada a Objetos"
+      ]
+    },
+    {
+      "name": "Arduino/ESP32",
+      "icon": "./icons/arduino.astro",
+      "keywords": [
+        "Instrumentación",
+        "Desarrollo de software"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "./icons/git.astro",
+      "keywords": [
+        "Control de versiones",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Solidworks/Fusion 360",
+      "icon": "./icons/solid.astro",
+      "keywords": [
+        "Desarrollo 3D",
+        "Modelado 3D",
+        "Ensamblaje 3D"
+      ]
+    },
+    {
+      "name": "Ultimaker Cura",
+      "icon": "",
+      "keywords": [
+        "Impresión 3D",
+        "Modelado 3D"
+      ]
+    },
+    {
+      "name": "KiCad 8",
+      "icon": "",
+      "keywords": [
+        "Circuitos electrónicos",
+        "PCB",
+        "Instrumentación"
+      ]
+    },
+    {
+      "name": "DipTrace",
+      "icon": "",
+      "keywords": [
+        "Circuitos electrónicos",
+        "PCB",
+        "Instrumentación"
+      ]
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Manejo del Tiempo",
+      "keywords": [
+        "Organización",
+        "Responsabilidad"
+      ]
+    },
+    {
+      "name": "Trabajo en Equipo",
+      "keywords": [
+        "Liderazgo",
+        "Productividad"
+      ]
+    },
+    {
+      "name": "Forjar Nuevas Relaciones",
+      "keywords": [
+        "Comunicación",
+        "Empatía",
+        "Comprensión"
+      ]
+    },
+    {
+      "name": "Adaptabilidad",
+      "keywords": [
+        "Flexibilidad",
+        "Resiliencia"
+      ]
+    },
+    {
+      "name": "Resolución de problemas",
+      "keywords": [
+        "Lógica",
+        "Creatividad"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": 100
+    },
+    {
+      "language": "Inglés",
+      "fluency": 85
+    },
+    {
+      "language": "Francés",
+      "fluency": 10
+    },
+    {
+      "language": "Alemán",
+      "fluency": 10
+    },
+    {
+      "language": "Italiano",
+      "fluency": 10
+    }
+  ],
+  "interests": [
+    {
+      "name": "Ciencia",
+      "keywords": [
+        "Física",
+        "Química",
+        "Biología"
+      ]
+    },
+    {
+      "name": "Tecnología",
+      "keywords": [
+        "Programación",
+        "Desarrollo web",
+        "Desarrollo de software"
+      ]
+    },
+    {
+      "name": "Investigación",
+      "keywords": [
+        "Medicina Nuclear",
+        "Imagenología",
+        "Instrumentación"
+      ]
+    },
+    {
+      "name": "Instrumentación",
+      "keywords": [
+        "Control",
+        "PCB",
+        "Sistemas mínimos"
+      ]
+    },
+    {
+      "name": "Deportes",
+      "keywords": [
+        "Voleibol",
+        "Natación",
+        "Atletismo"
+      ]
+    },
+    {
+      "name": "Música",
+      "keywords": [
+        "Guitarra",
+        "Piano",
+        "Violín"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "EngiBlog",
+      "isActive": true,
+      "startDate": "2025-01-01T00:00:00",
+      "endDate": null,
+      "description": "Un blog para los apasionados por la ingeniería. Se busca impulsar a los alumnos a la investigación y la difusión de ciencia, estando al alcance de todos.",
+      "highlights": [
+        "Desarrollado con Astro",
+        "Proyecto para la difusión de conocimientos en ingeniería y ciencias",
+        "Continúa en desarrollo"
+      ],
+      "url": "https://engiblog.netlify.app"
+    },
+    {
+      "name": "Physics Simulator",
+      "isActive": true,
+      "startDate": "2025-11-15T00:00:00",
+      "endDate": null,
+      "description": "Un simulador de física para la enseñanza de física. Integra C++ junto con Python para la visualización de gráficos.",
+      "highlights": [
+        "Desarrollado con C++ y Python",
+        "Proyecto para la enseñanza de física a niveles básicos",
+        "Continúa en desarrollo"
+      ],
+      "url": "https://github.com/JaxxBalyit/Physics-Simulator-Cpp"
+    },
+    {
+      "name": "Portafolio de Análisis de Datos",
+      "isActive": false,
+      "startDate": "2025-12-19T00:00:00",
+      "endDate": "2026-01-03T00:00:00",
+      "description": "Proyecto personal para mostrar habilidades en análisis de datos, visualización y programación.",
+      "highlights": [
+        "Análisis de datos con Python",
+        "Visualización con matplotlib y seaborn"
+      ],
+      "url": "https://github.com/JaxxBalyit/DataAnalysisPortfolio"
+    },
+    {
+      "name": "Bitácora de Laboratorio en Python",
+      "isActive": false,
+      "startDate": "2025-12-15T00:00:00",
+      "endDate": "2026-02-01T00:00:00",
+      "description": "Aplicación en Python para el control de experimentos de un laboratorio, el cual implementa SQL para la base de datos y ofrece una interfaz gráfica para la visualización de los datos.",
+      "highlights": [
+        "Desarrollado con Python",
+        "Proyecto para el control de experimentos de un laboratorio"
+      ],
+      "url": "https://github.com/JaxxBalyit/Lab-Manager-Python-SQL"
+    },
+    {
+      "name": "Visualización de datos con Astro y Python",
+      "isActive": false,
+      "startDate": "2025-11-19T00:00:00",
+      "endDate": "2026-02-15T00:00:00",
+      "description": "Un proyecto para la visualización de datos con Astro y Python. Se busca crear un proyecto que permita la visualización de datos variados en tiempo real.",
+      "highlights": [
+        "Desarrollado con Astro y Python",
+        "Proyecto para la visualización de datos climáticos en tiempo real",
+        "Continúa en desarrollo"
+      ],
+      "url": "https://github.com/JaxxBalyit/data_visualization_Astro-Python"
+    },
+    {
+      "name": "Creación de un sistema de impedancia para evaluación de calidad en vinos, tequilas y mezcales",
+      "isActive": false,
+      "startDate": "2025-01-01T00:00:00",
+      "endDate": "2025-06-01T00:00:00",
+      "description": "Invención de un sistema económico para la cuantificación y diferenciación de vinos, tequilas y mezcales.",
+      "highlights": [
+        "Proyecto mediante la placa comercial AD5933EBZ",
+        "Proyecto realizado para el laboratorio de Bioimpedancia"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Creación de un sistema de impedancia para detección de cáncer de piel",
+      "isActive": false,
+      "startDate": "2025-01-01T00:00:00",
+      "endDate": "2025-06-01T00:00:00",
+      "description": "Invención de un sistema económico no invasiva para evaluación de riesgo oncológido en tejido cutáneo.",
+      "highlights": [
+        "Proyecto mediante la placa comercial AD5933EBZ",
+        "Proyecto realizado para el laboratorio de Física Médica"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Actualización de un sistema de control de temperatura",
+      "isActive": false,
+      "startDate": "2023-01-01T00:00:00",
+      "endDate": "2024-01-01T00:00:00",
+      "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro de alto vacío.",
+      "highlights": [
+        "Proyecto realizado en Arduino",
+        "Proyecto realizado para el laboratorio de Espectroscopia Ultrafina"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Actualización de un sistema de control de motores",
+      "isActive": false,
+      "startDate": "2023-01-01T00:00:00",
+      "endDate": "2024-01-01T00:00:00",
+      "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro de alto vacío.",
+      "highlights": [
+        "Proyecto realizado en Arduino",
+        "Proyecto realizado para el laboratorio de Espectroscopia Ultrafina"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Chat App",
+      "isActive": false,
+      "startDate": "2023-01-01T00:00:00",
+      "endDate": "2023-01-01T00:00:00",
+      "description": "Chat App con React y Node.js.",
+      "highlights": [
+        "Proyecto final del curso de Desarrollo Web con React",
+        "Proyecto realizado con React, Node.js, Socket.io y Firebase"
+      ],
+      "url": "https://chatapp-jaxx.web.app/"
+    },
+    {
+      "name": "Clon de Juego de Snake",
+      "isActive": false,
+      "startDate": "2023-01-01T00:00:00",
+      "endDate": "2023-01-01T00:00:00",
+      "description": "Clon de Juego de Snake con HTML, CSS y JavaScript.",
+      "highlights": [
+        "Proyecto realizado con HTML, CSS y JavaScript vanilla",
+        "Proyecto realizado en tiempo libre"
+      ],
+      "url": "https://github.com/JaxxBalyit/snake-game-clone"
+    },
+    {
+      "name": "Algoritmo PSO en C++",
+      "isActive": false,
+      "startDate": "2022-01-01T00:00:00",
+      "endDate": "2022-01-01T00:00:00",
+      "description": "Algoritmo Optimización de Enjambre de Partículas en C++.",
+      "highlights": [
+        "Proyecto realizado para la asignatura de POOE",
+        "Proyecto realizado con C++",
+        "Proyecto realizado con biblioteca random, vector y algorithm"
+      ],
+      "url": "https://github.com/JaxxBalyit/PSO-Algorithm.cpp"
+    },
+    {
+      "name": "Piano Interactivo en Python",
+      "isActive": false,
+      "startDate": "2022-01-01T00:00:00",
+      "endDate": "2022-01-01T00:00:00",
+      "description": "Piano Interactivo en Python.",
+      "highlights": [
+        "Proyecto realizado para la asignatura de POOE",
+        "Proyecto realizado con Python",
+        "Proyecto realizado con pygame y tkinter"
+      ],
+      "url": "https://github.com/JaxxBalyit/Piano-Python"
+    }
   ]
-},{
-  "name": "Trabajo en Equipo",
-  "keywords": [
-    "Liderazgo",
-    "Productividad"
-  ]
-},{
-  "name": "Forjar Nuevas Relaciones",
-  "keywords": [
-    "Comunicación",
-    "Empatía",
-    "Comprensión"
-  ]
-},{
-  "name": "Adaptabilidad",
-  "keywords": [
-    "Flexibilidad",
-    "Resiliencia"
-  ]
-},{
-  "name": "Resolución de problemas",
-  "keywords": [
-    "Lógica",
-    "Creatividad"
-  ]
-}],
-"languages": [{
-    "language": "Español",
-    "fluency": 100
-  },{
-    "language": "Inglés",
-    "fluency": 85
-  },{
-    "language": "Francés",
-    "fluency": 10
-  },{
-    "language": "Alemán",
-    "fluency": 10
-  },{
-    "language": "Italiano",
-    "fluency": 10
-  }],
-  "interests": [{
-    "name": "Ciencia",
-    "keywords": [
-      "Física",
-      "Química",
-      "Biología"
-    ]
-  },{
-    "name": "Tecnología",
-    "keywords": [
-      "Programación",
-      "Desarrollo web",
-      "Desarrollo de software"
-    ]
-  },{
-    "name": "Investigación",
-    "keywords": [
-      "Medicina Nuclear",
-      "Imagenología",
-      "Instrumentación"
-    ]
-  },{
-    "name": "Instrumentación",
-    "keywords": [
-      "Control",
-      "PCB",
-      "Sistemas mínimos"
-    ]
-  },{
-    "name": "Deportes",
-    "keywords": [
-      "Voleibol",
-      "Natación",
-      "Atletismo"
-    ]
-  },{
-    "name": "Música",
-    "keywords": [
-      "Guitarra",
-      "Piano",
-      "Violín"
-    ]
-  }],
-  "projects": [{
-    "name": "EngiBlog",
-    "isActive": true,
-    "startDate": "2025-01-01T00:00:00",
-    "endDate": null,
-    "description": "Un blog para los apasionados por la ingeniería. Se busca impulsar a los alumnos a la investigación y la difusión de ciencia, estando al alcance de todos.",
-    "highlights": [
-      "Desarrollado con Astro",
-      "Proyecto para la difusión de conocimientos en ingeniería y ciencias",
-      "Continúa en desarrollo"
-    ],
-    "url": "https://engiblog.netlify.app"
-  },{
-    "name": "Physics Simulator",
-    "isActive": true,
-    "startDate": "2025-11-15T00:00:00",
-    "endDate": null,
-    "description": "Un simulador de física para la enseñanza de física. Integra C++ junto con Python para la visualización de gráficos.",
-    "highlights": [
-      "Desarrollado con C++ y Python",
-      "Proyecto para la enseñanza de física a niveles básicos",
-      "Continúa en desarrollo"
-    ],
-    "url": "https://github.com/JaxxBalyit/Physics-Simulator-Cpp"
-  },{
-    "name": "Portafolio de Análisis de Datos",
-    "isActive": false,
-    "startDate": "2025-12-19T00:00:00",
-    "endDate": "2026-01-03T00:00:00",
-    "description": "Proyecto personal para mostrar habilidades en análisis de datos, visualización y programación.",
-    "highlights": [
-      "Análisis de datos con Python",
-      "Visualización con matplotlib y seaborn"
-    ],
-    "url": "https://github.com/JaxxBalyit/DataAnalysisPortfolio"
-  },{
-    "name": "Bitácora de Laboratorio en Python",
-    "isActive": false,
-    "startDate": "2025-12-15T00:00:00",
-    "endDate": "2026-02-01T00:00:00",
-    "description": "Aplicación en Python para el control de experimentos de un laboratorio, el cual implementa SQL para la base de datos y ofrece una interfaz gráfica para la visualización de los datos.",
-    "highlights": [
-      "Desarrollado con Python",
-      "Proyecto para el control de experimentos de un laboratorio"
-    ],
-    "url": "https://github.com/JaxxBalyit/Lab-Manager-Python-SQL"
-  },{
-    "name": "Visualización de datos con Astro y Python",
-    "isActive": false,
-    "startDate": "2025-11-19T00:00:00",
-    "endDate": "2026-02-15T00:00:00",
-    "description": "Un proyecto para la visualización de datos con Astro y Python. Se busca crear un proyecto que permita la visualización de datos variados en tiempo real.",
-    "highlights": [
-      "Desarrollado con Astro y Python",
-      "Proyecto para la visualización de datos climáticos en tiempo real",
-      "Continúa en desarrollo"
-    ],
-    "url": "https://github.com/JaxxBalyit/data_visualization_Astro-Python"
-  },{
-    "name": "Creación de un sistema de impedancia para evaluación de calidad en vinos, tequilas y mezcales",
-    "isActive": false,
-    "startDate": "2025-01-01T00:00:00",
-    "endDate": "2025-06-01T00:00:00",
-    "description": "Invención de un sistema económico para la cuantificación y diferenciación de vinos, tequilas y mezcales.",
-    "highlights": [
-      "Proyecto mediante la placa comercial AD5933EBZ",
-      "Proyecto realizado para el laboratorio de Bioimpedancia"
-    ],
-    "url": ""
-  },{
-    "name": "Creación de un sistema de impedancia para detección de cáncer de piel",
-    "isActive": false,
-    "startDate": "2025-01-01T00:00:00",
-    "endDate": "2025-06-01T00:00:00",
-    "description": "Invención de un sistema económico no invasiva para evaluación de riesgo oncológido en tejido cutáneo.",
-    "highlights": [
-      "Proyecto mediante la placa comercial AD5933EBZ",
-      "Proyecto realizado para el laboratorio de Física Médica"
-    ],
-    "url": ""
-  },{
-    "name": "Actualización de un sistema de control de temperatura",
-    "isActive": false,
-    "startDate": "2023-01-01T00:00:00",
-    "endDate": "2024-01-01T00:00:00",
-    "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro de alto vacío.",
-    "highlights": [
-      "Proyecto realizado en Arduino",
-      "Proyecto realizado para el laboratorio de Espectroscopia Ultrafina"
-    ],
-    "url": ""
-  },{
-    "name": "Actualización de un sistema de control de motores",
-    "isActive": false,
-    "startDate": "2023-01-01T00:00:00",
-    "endDate": "2024-01-01T00:00:00",
-    "description": "Actualización del sistema para el funcionamiento de un espectrofotómetro de alto vacío.",
-    "highlights": [
-      "Proyecto realizado en Arduino",
-      "Proyecto realizado para el laboratorio de Espectroscopia Ultrafina"
-    ],
-    "url": ""
-  },{
-    "name": "Chat App",
-    "isActive": false,
-    "startDate": "2023-01-01T00:00:00",
-    "endDate": "2023-01-01T00:00:00",
-    "description": "Chat App con React y Node.js.",
-    "highlights": [
-      "Proyecto final del curso de Desarrollo Web con React",
-      "Proyecto realizado con React, Node.js, Socket.io y Firebase"
-    ],
-    "url": "https://chatapp-jaxx.web.app/"
-  },{
-    "name": "Clon de Juego de Snake",
-    "isActive": false,
-    "startDate": "2023-01-01T00:00:00",
-    "endDate": "2023-01-01T00:00:00",
-    "description": "Clon de Juego de Snake con HTML, CSS y JavaScript.",
-    "highlights": [
-      "Proyecto realizado con HTML, CSS y JavaScript vanilla",
-      "Proyecto realizado en tiempo libre"
-    ],
-    "url": "https://github.com/JaxxBalyit/snake-game-clone"
-  },{
-    "name": "Algoritmo PSO en C++",
-    "isActive": false,
-    "startDate": "2022-01-01T00:00:00",
-    "endDate": "2022-01-01T00:00:00",
-    "description": "Algoritmo Optimización de Enjambre de Partículas en C++.",
-    "highlights": [
-      "Proyecto realizado para la asignatura de POOE",
-      "Proyecto realizado con C++",
-      "Proyecto realizado con biblioteca random, vector y algorithm"
-    ],
-    "url": "https://github.com/JaxxBalyit/PSO-Algorithm.cpp"
-  },{
-    "name": "Piano Interactivo en Python",
-    "isActive": false,
-    "startDate": "2022-01-01T00:00:00",
-    "endDate": "2022-01-01T00:00:00",
-    "description": "Piano Interactivo en Python.",
-    "highlights": [
-      "Proyecto realizado para la asignatura de POOE",
-      "Proyecto realizado con Python",
-      "Proyecto realizado con pygame y tkinter"
-    ],
-    "url": "https://github.com/JaxxBalyit/Piano-Python"
-  }]
 }
